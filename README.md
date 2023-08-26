@@ -3,9 +3,7 @@
 
 You can run the code with the following file:
 
-performance_comparison.py
-
-#!/bin/bash
+run_performance_comparison.py
 
 Clone the repository
 ```bash
